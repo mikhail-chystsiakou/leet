@@ -1,6 +1,7 @@
 package by.mich;
 
 public class L0771_JewelsAndStones {
+
     public static void main(String[] args) {
         assert numJewelsInStones(
             "ab",
@@ -11,6 +12,7 @@ public class L0771_JewelsAndStones {
             "YSb"
         ) == 0;
     }
+
     public static int numJewelsInStones(String jewels, String stones) {
         int[] jewelsArr = new int[52];
         for (int i = 0; i < jewels.length(); i++) {

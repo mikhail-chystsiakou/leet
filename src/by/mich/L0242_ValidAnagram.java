@@ -12,7 +12,8 @@ package by.mich;
  */
 public class L0242_ValidAnagram {
     public static void main(String[] args) {
-        assert isAnagram("abc", "bac");
+        System.out.println(Character.getNumericValue('a'));
+//        assert isAnagram("abc", "bac");
     }
 
     // https://leetcode.com/problems/valid-anagram/submissions/888707117/

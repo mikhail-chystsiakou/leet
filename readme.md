@@ -2,7 +2,9 @@
 
 | No, Date        | Time, min (IDE/paper) | Solution Link                                                | Compared quality | Complexity | Lessons Learned                                              |
 | --------------- | --------------------- | ------------------------------------------------------------ | ---------------- | ---------- | ------------------------------------------------------------ |
-| 014, 01.02.2023 | 15/-                  | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/889503250/) | 100/78           | Easy       | Be careful with corner cases.                                |
+| 017, 02.02.2023 | 20/-                  | [707. Implement Linked List](https://leetcode.com/problems/design-linked-list/submissions/890013093/) | 47/74            | Medium     | Use sentiel node                                             |
+| 016, 01.02.2023 | 24/-                  | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/889538858/) | 85/64            | Medium     | If you can not use recursion, don't use id                   |
+| 015, 01.02.2023 | 15/-                  | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/889503250/) | 100/78           | Easy       | Be careful with corner cases.                                |
 | 014, 01.02.2023 | 5/-                   | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/889075611) | 100/95           | Easy       | Dont forget corner cases! Zero index for pivot is possible.  |
 | 013, 01.02.2023 | 2/-                   | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/889072544/) | 100/68           | Easy       | I can type fast                                              |
 | 012, 01.02.2023 | 40/-                  | [48. Rotate Image](https://leetcode.com/problems/rotate-image/submissions/889068945/) | 100/48           | Medium     | Always draw complex index permutations -_-                   |

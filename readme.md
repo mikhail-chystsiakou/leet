@@ -2,6 +2,8 @@
 
 | No, Date        | Time, min (IDE/paper) | Solution Link                                                | Compared quality | Complexity | Lessons Learned                                              |
 | --------------- | --------------------- | ------------------------------------------------------------ | ---------------- | ---------- | ------------------------------------------------------------ |
+| 018, 03.02.2023 | 20/-                  | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/890333788/) | 90/84            | Medium     | Trained recursive                                            |
+| 018, 02.02.2023 | -/-                   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/890055185/) | 100/94           | Medium     | Expert recursion usage, proud of myself                      |
 | 017, 02.02.2023 | 20/-                  | [707. Implement Linked List](https://leetcode.com/problems/design-linked-list/submissions/890013093/) | 47/74            | Medium     | Use sentiel node                                             |
 | 016, 01.02.2023 | 24/-                  | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/889538858/) | 85/64            | Medium     | If you can not use recursion, don't use id                   |
 | 015, 01.02.2023 | 15/-                  | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/889503250/) | 100/78           | Easy       | Be careful with corner cases.                                |

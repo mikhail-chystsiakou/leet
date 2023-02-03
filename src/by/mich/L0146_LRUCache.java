@@ -32,7 +32,7 @@ public class L0146_LRUCache {
         DListNode prev;
     }
 
-    public LRUCache(int capacity) {
+    public L0146_LRUCache(int capacity) {
         this.capacity = capacity;
         data = new HashMap<>(capacity);
         head = new DListNode();
